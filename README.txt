@@ -1,5 +1,4 @@
 Trenton Rochelle
-9561606
 
 This liptracking assignment can be run by doing the following:
 
